@@ -44,3 +44,15 @@
     top: 50px;
 
 }
+
+.stock-guy-drink {
+    position: absolute;
+    display: flex;
+    margin: 100px;
+    height: 350px;
+    width: 250px;
+    flex-direction: row;
+    top: 50px;
+    right: 0;   /* pushes it to the right edge */
+}
+
